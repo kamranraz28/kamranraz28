@@ -1,6 +1,5 @@
 ### Hello! I'm Md. Kamran Hosan
 
-- 🔭 I’m currently working on PHP Development, Laravel Development, Backend Development.
-- 👯 I’m looking forward to get an opportunity to learn and work as a PHP Laravel Developer.
-- 💬 Ask me about PHP and Laravel.
+- 🔭 A software Developer with expertise in PHP, Laravel and Restful API
+- 💬 Ask me about PHP, Laravel and API.
 - ⚡ Fun fact: I'm a Sports Lover.
