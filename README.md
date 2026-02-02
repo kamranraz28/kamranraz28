@@ -33,7 +33,7 @@
 ## 👨‍💻 About Me
 
 I’m **Md Kamran Hosan**, a collaborative and solution-driven **Software Engineer** with expertise in **PHP, Laravel, Vue.js, React.js, RESTful APIs, MySQL, and LLM-based systems**.  
-With **over five years of development experience**, including **more than two years in a professional role**, I focus on building **scalable, secure, and high-performance applications**.
+With **over five years of development experience**, including **three years in a professional role**, I focus on building **scalable, secure, and high-performance applications**.
 
 I enjoy solving complex problems, writing clean and maintainable code, and working closely with cross-functional teams to deliver impactful business solutions.
 
@@ -55,14 +55,14 @@ I enjoy solving complex problems, writing clean and maintainable code, and worki
 
 ## 💡 Portfolio Highlights
 
-🔹 **Service Record Management System**  
-<ul> 
-  <li>Developed a secure and scalable system for managing employee service records.</li>
-</ul>
-
 🔹 **Distribution Management System**  
 <ul> 
   <li>Designed backend APIs and dashboards to streamline distribution workflows.</li>
+</ul>
+
+🔹 **Service Record Management System**  
+<ul> 
+  <li>Developed a secure and scalable system for managing employee service records.</li>
 </ul>
 
 🔹 **Nursery Management System**  
