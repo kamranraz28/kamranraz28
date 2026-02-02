@@ -112,20 +112,4 @@ I enjoy solving complex problems, writing clean and maintainable code, and worki
 
 ---
 
-### 🔥 GitHub Heatmap
-
-<p align="">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamranraz28&show_icons=true&theme=radical)
-</p>
-
----
-
-### 🚀 Languages in Action
-
-<p align="">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamranraz28&layout=compact&theme=radical)
-</p>
-
----
-
-> 💡 "Every great developer was once a beginner who kept going."
+> 💡 **“3+ years of experience crafting clean, scalable, production-ready systems.”**
