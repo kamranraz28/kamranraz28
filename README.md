@@ -42,6 +42,10 @@ I enjoy solving complex problems, writing clean and maintainable code, and worki
 ### 📫 Connect with Me
 
 <p align="">
+  <a href="https://www.linkedin.com/in/md-kamran-hosan-693023261/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
  <a href="mailto:mdkamranhosan98@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
